@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExemploMedia</string>
+    <string name="txt_Nota1">Insira a primeira nota</string>
+    <string name="txt_Nota2">Insira a segunda nota</string>
+    <string name="hint_nota3">Insira a terceira nota</string>
+    <string name="hint_nota2">Insira a segunda nota</string>
+    <string name="hint_nota1">Insira a primeira nota</string>
+    <string name="hint_nota4">Insira a quarta nota</string>
+    <string name="txt_padrao_calcular">Calcular</string>
+    <string name="txt_padra_voltar">Voltar</string>
+</resources>
